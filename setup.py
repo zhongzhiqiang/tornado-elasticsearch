@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='tornado_elasticsearch',
-    version='0.5.0',
+    version='0.5.1',
     description=('Extends the official Elasticsearch Python API adding '
                  'Tornado AsyncHTTPClient support'),
     long_description=open('README.rst').read(),
